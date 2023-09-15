@@ -20,7 +20,7 @@
     3. Google Chrome for the local web hosting.</br>
     4. Visual Studio for the backend.
 <h3>3. Features </h3>
-  <h4>Real Time Monitoring</h4><br/>
+  <h4>Real Time Monitoring</h4>
      This feature provides a real-time view of renewable energy assets, including solar panels, wind turbines, biofuels, and hydro-energy.
 Employees can monitor energy generation and consumption as it happens, enabling immediate response to fluctuations or issues.
 Visualizations and live data updates offer a clear and current overview of renewable energy system performance.
