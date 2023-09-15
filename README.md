@@ -18,7 +18,7 @@
     1. VS Code for developing the front end.</br>
     2. pgAdmin 4 is used for generating the database schema.</br>
     3. Google Chrome for the local web hosting.</br>
-    4. Visual Studio for the backend.
+    4. Visual Studio for the backend.</br>
 <h3>3. Features </h3>
   <h4>Real Time Monitoring</h4>
      This feature provides a real-time view of renewable energy assets, including solar panels, wind turbines, biofuels, and hydro-energy.
@@ -31,7 +31,7 @@ Users can view and modify only the data and features relevant to their roles, en
   <h4>Customizable Settings and Notifications</h4>
     Users can tailor system settings to match their specific requirements and preferences.
 Customization options include setting energy thresholds, notification preferences, and system alerts.
-Notifications keep users informed about critical events or potential issues, allowing for timely responses.
+Notifications keep users informed about critical events or potential issues, allowing for timely responses.</br>
 <h3>4. Screenshots </h3>
 <h4>Profile Login</h4>
 ![Profile Login](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161242.png)
@@ -54,7 +54,7 @@ Notifications keep users informed about critical events or potential issues, all
 <h4>About Us</h4>
 ![about us](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161700.png)
 <h4>Contact Us</h4>
-![contact us](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161716.png)
+![contact us](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161716.png)</br>
 <h3>5. Configuration </h3></br>
    To configure the Renewable Energy Tracking and Management System, modify the configuration files located in the config directory. You may need to set up database connections, define alert thresholds, and specify the types of renewable energy sources you're using.
 
