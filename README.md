@@ -1,4 +1,3 @@
-# Final Case Study
 <h1>Renewable Energy Tracking and Management System</h1>
 ![image](https://github.com/shellcasestudyteam04/Finalcasestudy/assets/145114889/cc08ff62-e0cf-47c6-a34c-6ed52415aad0)
 <h2>Introduction</h2>
@@ -57,7 +56,7 @@ Notifications keep users informed about critical events or potential issues, all
 <h4>Contact Us</h4><br/>
 ![contact us](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161716.png)
 <h3>5. Configuration </h3>
-To configure the Renewable Energy Tracking and Management System, modify the configuration files located in the config directory. You may need to set up database connections, define alert thresholds, and specify the types of renewable energy sources you're using.
+   To configure the Renewable Energy Tracking and Management System, modify the configuration files located in the config directory. You may need to set up database connections, define alert thresholds, and specify the types of renewable energy sources you're using.
 
 
 
