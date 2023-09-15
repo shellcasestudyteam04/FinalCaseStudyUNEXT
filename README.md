@@ -1,4 +1,4 @@
-# Finalcasestudy
+# Final Case Study
 <h1>Renewable Energy Tracking and Management System</h1>
 ![image](https://github.com/shellcasestudyteam04/Finalcasestudy/assets/145114889/cc08ff62-e0cf-47c6-a34c-6ed52415aad0)
 <h2>Introduction</h2>
