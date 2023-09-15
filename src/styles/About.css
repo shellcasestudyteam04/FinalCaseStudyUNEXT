@@ -1,0 +1,47 @@
+.about {
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.aboutTop {
+  width: 100%;
+  height: 45%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Times New Roman";
+}
+
+.aboutBottom {
+  display: flex;
+  flex-direction: column;
+  height: 55%;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.aboutBottom p {
+  font-family: "Times New Roman";
+  font-size: larger;
+  width: 1200px;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  text-align: center;
+
+}
+
+.about .aboutBottom h1 {
+  font-weight: 400;
+  font-size: 70px;
+  color: black;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  transform: translateY(-40px);
+}

@@ -1,0 +1,25 @@
+.table-container {
+    margin: 100px;
+}
+
+.solar-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+
+.solar-table th,
+.solar-table td {
+    border: 1px solid #ccc;
+    padding: 40px;
+    text-align: center;
+}
+
+.solar-table th {
+    background-color: #333;
+    color: #fff;
+}
+
+.solar-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}

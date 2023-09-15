@@ -1,0 +1,26 @@
+
+.table-container1 {
+    margin: 100px;
+}
+
+.bio-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid #333;
+}
+
+.bio-table th,
+.bio-table td {
+    border: 1px solid #ccc;
+    padding: 40px;
+    text-align: center;
+}
+
+.bio-table th {
+    background-color: #333;
+    color: #fff;
+}
+
+.bio-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
