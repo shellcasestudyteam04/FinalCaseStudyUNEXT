@@ -1,5 +1,5 @@
 <h1>Renewable Energy Tracking and Management System</h1>
-![image](https://github.com/shellcasestudyteam04/Finalcasestudy/assets/145114889/cc08ff62-e0cf-47c6-a34c-6ed52415aad0)
+![Home page](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Home%20Page.PNG)
 <h2>Introduction</h2>
    In an era marked by environmental consciousness and a growing shift towards sustainable energy sources, the efficient management and tracking of renewable energy assets have become paramount. The "Renewable Energy Tracking and Management System" is a sophisticated solution that addresses the intricate challenges associated with harnessing and maximizing the potential of renewable energy sources.
 <h2>Table of Contents</h2>
