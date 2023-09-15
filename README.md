@@ -42,7 +42,7 @@ Notifications keep users informed about critical events or potential issues, all
 <h4>Fetch data by ID</h4>
 ![fetch data by id](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161428.png)
 <h4>Fetched data displayed as a table</h4>
-![fetched data displayed as a table](hhttps://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161441.png)
+![fetched data displayed as a table](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161441.png)
 <h4>Add a new contractor</h4>
 ![add a new contractor](https://github.com/shellcasestudyteam04/FinalCaseStudyUNEXT/blob/main/image/Screenshot%202023-09-15%20161542.png)
 <h4>Individual energy details</h4>
